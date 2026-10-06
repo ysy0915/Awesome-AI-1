@@ -460,6 +460,7 @@
 | 构建 RAG 问答系统 | LLM + 向量数据库实战 | [🔗](https://github.com/langchain-ai/rag-from-scratch) |
 | Fine-tune LLaMA | 使用 LoRA 微调开源大模型 | [🔗](https://github.com/hiyouga/LLaMA-Factory) |
 | 构建 AI Agent | 用 LangChain 构建工具调用 Agent | [🔗](https://python.langchain.com/docs/tutorials/agents/) |
+| 博思AI智能体（chat-system） | 生产级多模型 AI 对话系统：SPI 策略工厂适配 8+ LLM 厂商 + RAG 知识库（Milvus 向量检索）+ 知识图谱 + Multi-Agent 工作流，含完整工程实践（微服务/测试/CI/部署） | [🔗](https://github.com/ysy0915/chat-system) |
 | Kaggle 机器学习竞赛 | 真实数据集竞赛，学以致用 | [🔗](https://www.kaggle.com/competitions) |
 
 ### 常用数据集
